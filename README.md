@@ -6,7 +6,7 @@
 
 Welcome to my GitHub profile!.Here's a quick overview of my skills and strengths:
 
-I'm Kamal, a highly skilled **Flutter Developer** with over **6 years of experience** in crafting innovative, high-performing mobile applications for **Android**, **iOS**, and the **web**. I specialize in building robust, scalable, and user-friendly applications that solves real world problems.
+I'm Kamal, a highly skilled **Mobile Application Developer** with over **6 years of experience** in crafting innovative, high-performing mobile applications for **Android**, **iOS**, and the **web**. I specialize in building robust, scalable, and user-friendly applications that solves real world problems.
 
 I prioritize providing full-time availability and ensuring top-notch work with a focus on user experience, design, and functionality. My expertise spans across various areas, including Mobile App Development, UI/UX Design, Agile Development, iOS, and Android.
 
